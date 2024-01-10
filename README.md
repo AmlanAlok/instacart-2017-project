@@ -1,7 +1,7 @@
 # instacart-2017-project
 
 
-Please find the project report here — 
+Please find the project report here — https://github.com/AmlanAlok/instacart-2017-project/blob/main/ML_Project_Report.pdf
 
 You can find the results of my experiments in the Instacart_Results.xlsx file.
 
