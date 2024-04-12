@@ -32,6 +32,26 @@ Please let me know if this is the case.
 
 
 
+User features
+
+1. total orders
+2. reordered ratio
+
+Product features
+
+1. product total purchases
+2. product reorder ratio
+
+User Product Features
+
+1. total bought for every (userId, productId)
+
+   first order number -> order range
+2. uxp reorder ratio -> for every (userId, productId) ratio = (times bought)/(order range)
+
+
+
+
 
 
 
